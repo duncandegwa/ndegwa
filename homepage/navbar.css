@@ -1,0 +1,61 @@
+ul.navbar{
+    list-style-type: none;
+    
+    
+   
+}
+
+li{
+    float: right;
+    margin-left: 10px;
+    height: 50px;
+}
+li:first-child{
+    margin-right: 10px;
+}
+li a{
+    text-decoration: none;
+    color: black;
+   font-size: larger;
+    padding: 10px;
+    text-align: center;
+    
+
+}
+li a:hover{
+    color: yellow;
+    
+}
+div.navb{
+    margin: 0;
+    width: 100%;
+    
+    background: linear-gradient(to right, green,gray);
+    position: fixed;
+    top: 0;
+    left: 0;
+    
+}
+h2.logo{
+    font-size: 18px;
+    color: pink;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float: left;
+    margin: 0;
+    animation-name: logo;
+    animation-duration: 10s;
+    animation-delay: 5s;
+    animation-iteration-count: infinite;
+  
+}
+@keyframes logo{
+    0%{color:pink;}
+    25%{color: wheat;}
+    50%{color:gold;}
+    75%{color: greenyellow;}
+    100%{color: pink;}
+}
+li a.active{
+    color: white;
+}
