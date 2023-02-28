@@ -8,7 +8,7 @@ ul.navbar{
 li{
     float: right;
     margin-left: 5px;
-    height: 50px;
+    
 }
 li:first-child{
     margin-right: 5px;
@@ -17,7 +17,7 @@ li a{
     text-decoration: none;
     color: black;
    font-size: larger;
-    padding: 60px;
+    padding: 50px;
     text-align: center;
     
 
