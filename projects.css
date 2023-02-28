@@ -64,14 +64,14 @@ div.prj{
 }
 .samples{
     background-color: black;
-    width: 90%;
+    width: 100%;
     margin: auto;
     
     display: flex;
     flex-wrap: wrap;
 }
 .portifolio{
-    width: 350px;
+    width: 300px;
     height: 300px;
    margin-left: 20px;
     text-align: center;
