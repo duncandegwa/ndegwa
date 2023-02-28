@@ -29,7 +29,7 @@ li a:hover{
 div.navb{
     margin: 0;
     width: 100%;
-    
+    height: 100px;
     background: linear-gradient(to right, green,gray);
     position: fixed;
     top: 0;
