@@ -4,6 +4,9 @@ ul.navbar{
     
    
 }
+* {
+    box-sizing: border-box;
+}
 
 li{
     float: right;
