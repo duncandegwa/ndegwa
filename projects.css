@@ -68,7 +68,7 @@ div.prj{
 .samples{
     background-color: black;
     width: 100%;
-    margin: auto;
+    
     
     display: flex;
     flex-wrap: wrap;
@@ -85,7 +85,7 @@ div.prj{
     margin-bottom: 20px;
     color: white;
     font-size: 20px;
-    margin: auto;
+    
 }
 .portifolio img{
     border: 2px solid white;
